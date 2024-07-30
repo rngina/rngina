@@ -2,7 +2,7 @@
 
 ###
 <p>I am an aspiring software engineer who codes in C and C++ and has expertise in Linux and Bash. I love solving problems and enjoy finding new and innovative solutions.</p>
-<p align="left">📚 I'm currently learning C and C++<br>🎯 I’m currently working on C++ Modules at 42 London<br>❤️ I love knitting and yoga</p>
+<p align="left">📚 I'm learning C and C++<br>🎯 I’m currently working on C++ Modules at 42 London<br>❤️ I love knitting and yoga</p>
 
 ###
 
