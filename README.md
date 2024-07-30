@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋 My name is Regina and I am a student at 42 London</h2>
 
 ###
-<p>I am an aspiring software engineer who codes in C and C++ and has expertise in Linux and Bash. I enjoy solving problems and finding new and innovative solutions.</p>
+<p>I am an aspiring software engineer who codes in C and C++ and has expertise in Linux and Bash. I enjoy solving problems and finding new and creative solutions.</p>
 <p align="left">📚 I'm learning C and C++<br>🎯 I’m currently working on C++ Modules at 42 London<br>❤️ I love knitting and yoga</p>
 
 ###
