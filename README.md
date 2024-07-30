@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Cub3D - a dynamic maze explorarion using a ray-casting<br>Minishell - simple shell<br>Philosophers - solving Dining Philosophers problem using multithreading</p>
+<p align="left">Cub3D - a dynamic maze exploration using a ray-casting<br>Minishell - simple shell<br>Philosophers - solving Dining Philosophers problem using multithreading</p>
 
 ###
 
