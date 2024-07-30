@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋<br>My name is Regina and I am a student at 42 London</h2>
+<h2 align="left">Hi 👋 My name is Regina and I am a student at 42 London</h2>
 
 ###
 <p>I am an aspiring software engineer who codes in C and C++ and has expertise in Linux and Bash. I enjoy solving problems and finding new and innovative solutions.</p>
