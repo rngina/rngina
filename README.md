@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"><a href="https://github.com/rngina/cub3D" target="blank">Cub3D</a> - a dynamic maze exploration using a ray-casting<br><a href="https://github.com/arinatyurina/minishell" target="blank">Minishell</a> - a simple shell<br><a href="https://github.com/rngina/philo" target="blank">Philosophers</a> - solving Dining Philosophers problem using multithreading<br><a href="https://github.com/rngina/fract-ol" target="blank">Fract-ol</a> - a small fractal exploration</p>
+<p align="left"><a href="https://github.com/rngina/cub3D" target="blank">Cub3D</a> - a dynamic maze exploration using a ray-casting<br><a href="https://github.com/rngina/minishell" target="blank">Minishell</a> - a simple shell<br><a href="https://github.com/rngina/philo" target="blank">Philosophers</a> - solving Dining Philosophers problem using multithreading<br><a href="https://github.com/rngina/fract-ol" target="blank">Fract-ol</a> - a small fractal exploration</p>
 
 ###
 
