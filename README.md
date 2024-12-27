@@ -8,9 +8,9 @@
 
 * [Advokit](https://github.com/chaynHQ/ai-letter-automated) - self-advocacy tool for creating legal complaints using AI
 * [Cub3D](https://github.com/rngina/cub3D) - 3D maze with ray-casting
-* [Fract-ol](https://github.com/rngina/fract-ol) - playing around with fractals
-* [Philosophers](https://github.com/rngina/philo) - solving the dining philosophers problem using multithreading
 * [Minishell](https://github.com/rngina/minishell) - my attempt at recreating Bash
+* [Philosophers](https://github.com/rngina/philo) - solving the dining philosophers problem using multithreading
+* [Fract-ol](https://github.com/rngina/fract-ol) - playing around with fractals
 
 ## Tech I use
 
