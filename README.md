@@ -1,22 +1,20 @@
-<h2 align="left">Hi 👋 My name is Regina and I am a student at 42 London</h2>
+## Hi there 👋 I'm Regina
 
-###
-<p>I am an aspiring software engineer who codes in C and C++ and has expertise in Linux and Bash. I enjoy solving problems and finding new and creative solutions.</p>
-<p align="left">📚 I'm learning C and C++<br>🎯 I’m currently working on C++ Modules at 42 London<br>❤️ I love knitting and yoga</p>
+I am an aspiring software engineer who codes in C and C++ and has expertise in Linux and Bash. I enjoy solving problems and finding new and creative solutions.
 
-###
+* 📚 I'm learning C and C++
+* 🎯 I’m currently working on C++ Modules at 42 London
+* ❤️ I love knitting and yoga
 
-<h2 align="left">My projects</h2>
+## My projects
 
-###
+* [Advokit](https://github.com/chaynHQ/ai-letter-automated) - self-advocacy tool for creating legal complaints using AI
+* [Cub3D](https://github.com/rngina/cub3D) - dynamic maze exploration using ray-casting
+* [Fract-ol](https://github.com/rngina/fract-ol) - fractal exploration
+* [Philosophers](https://github.com/rngina/philo) - solving the Dining Philosophers problem using multithreading
+* [Minishell](https://github.com/rngina/minishell) - simple shell
 
-<p align="left"><a href="https://github.com/chaynHQ/ai-letter-automated" target="blank">Advokit</a> - self-advocacy tool for creating legal complaints using LLM<br><a href="https://github.com/rngina/cub3D" target="blank">Cub3D</a> - a dynamic maze exploration using a ray-casting<br><a href="https://github.com/rngina/minishell" target="blank">Minishell</a> - a simple shell<br><a href="https://github.com/rngina/philo" target="blank">Philosophers</a> - solving Dining Philosophers problem using multithreading<br><a href="https://github.com/rngina/fract-ol" target="blank">Fract-ol</a> - a small fractal exploration</p>
-
-###
-
-<h2 align="left">I work with</h2>
-
-###
+## Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -34,15 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
-
-<h2 align="left">Connect with me</h2>
-
-###
+## Connect with me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/reginatavabilova/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedinlogo"></a>
   <a href="mailto:regina.tavabilova@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"></a>
 </div>
-
-###
