@@ -11,6 +11,7 @@
 * [Minishell](https://github.com/rngina/minishell) - my attempt at recreating Bash
 * [Philosophers](https://github.com/rngina/philo) - solving the dining philosophers problem using multithreading
 * [Fract-ol](https://github.com/rngina/fract-ol) - playing around with fractals
+* [ft_irc](https://github.com/sukhovasv/ft_irc/) - building owr own IRC server with c++
 
 ## Tech I use
 
